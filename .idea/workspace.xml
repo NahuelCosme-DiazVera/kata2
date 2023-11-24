@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8ad5f514-2985-4443-8c10-14aff28c82a4" name="Changes" comment="Interface PersonLoader created">
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/HistogramCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvFilePersonLoader.java" afterDir="false" />
+    <list default="true" id="8ad5f514-2985-4443-8c10-14aff28c82a4" name="Changes" comment="Class WeightHistogramCalculator created">
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvFilePersonLoader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/software/ulpgc/kata2/TsvFilePersonLoader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,7 +67,28 @@
       <option name="project" value="LOCAL" />
       <updated>1700851773939</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Class TsvFilePersonLoader created">
+      <created>1700852022611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700852022611</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Interface HistogramCalculator created">
+      <created>1700852044254</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1700852044254</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Class WeightHistogramCalculator created">
+      <created>1700852251445</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1700852251445</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,6 +105,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Class Person created" />
     <MESSAGE value="Interface PersonLoader created" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface PersonLoader created" />
+    <MESSAGE value="Class TsvFilePersonLoader created" />
+    <MESSAGE value="Interface HistogramCalculator created" />
+    <MESSAGE value="Class WeightHistogramCalculator created" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class WeightHistogramCalculator created" />
   </component>
 </project>

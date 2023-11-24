@@ -15,7 +15,7 @@ public class TsvFilePersonLoader implements PersonLoader{
         this.file = file;
     }
 
-    public TsvFilePersonLoader with(String file) {
+    public static TsvFilePersonLoader with(String file) {
         return new TsvFilePersonLoader(new File(file));
     }
 
